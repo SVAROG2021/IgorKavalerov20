@@ -12,3 +12,6 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/Main/Level/Level1_BuiltData.uasset
+Content/Main/Weapon/AmmoEC.uasset
+Content/Main/Weapon/WeaponBase.uasset
